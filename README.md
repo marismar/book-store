@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  A simple and clean mobile bookstore built with React Native using the Expo framework. <br/> The app integrates with an API that provides full CRUD (Create, Read, Update, Delete) operations for managing a list of books. <br/> It’s a great starting point for learning how to build and structure a mobile app using modern React Native practices.
+  A simple and clean mobile bookstore built with React Native using the Expo framework. <br/> The app integrates with an API that provides full CRUD operations for managing a list of books. <br/> It’s a great starting point for learning how to build and structure a mobile app using modern React Native practices.
 </p>
 
 <p align="center">
