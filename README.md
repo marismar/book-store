@@ -1,5 +1,5 @@
 <h2 align="center">
-    Book store built with React Native 📚
+    Book Store App 📚
 </h2>
 
 <p align="center">
